@@ -1,19 +1,3 @@
-/*
- * Copyright (C)2019 - Achmad Chun-Chun Winata Adi <anonychun@gmail.com>
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- * http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
-
 #include <iostream>
 #include <fstream>
 
@@ -90,7 +74,7 @@ int getOption() {
 	int input;
 	system("clear");
 	logo();
-	cout << "https://github.com/Anonychun" << endl;
+	cout << "https://github.com/cahyadi16" << endl;
 	cout << "==============================" << endl;
 	cout << "1. Disconnect WiFi" << endl;
 	cout << "2. Flooding WiFi" << endl;
